@@ -88,7 +88,7 @@ dur_hist <- function(city, graph_color, c_name) {
 
 dur_hist(ny, c1, 'New York')
 
-dur_hist(wash, c2, 'Washington')
+dur_hist(wash, c2, 'Washington') 
 
 dur_hist(chi, c3, 'Chicago')
 
