@@ -5,11 +5,13 @@ December 6, 2020
 Bikeshare Data Analysis for New York City, Chicago, and Washington in R.
 
 ### Description
-Describe what your project is about and what it does
+Exploratory data analysis for bikeshare data in three large U.S. cities. Includes visualization with ggplot2. 
 
 ### Files used
-Include the files used
+new_york_city.csv
+washington.csv
+chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Credit to: Udacity Nanodegree program: Programming for Data Science in R
 
