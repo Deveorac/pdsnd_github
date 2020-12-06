@@ -13,5 +13,5 @@ washington.csv
 chicago.csv
 
 ### Credits
-Credit to: Udacity Nanodegree program: Programming for Data Science in R
+Credit to: Udacity Nanodegree Program: Programming for Data Science in R
 
